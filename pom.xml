@@ -180,7 +180,7 @@ the software.
                 <artifactId>maven-resources-plugin</artifactId>
                 <configuration>
                     <escapeString>\</escapeString>
-                    <outputDirectory />
+                    <outputDirectory/>
                 </configuration>
             </plugin>
             <plugin>
@@ -762,7 +762,7 @@ the software.
             <dependency>
                 <groupId>org.postgresql</groupId>
                 <artifactId>postgresql</artifactId>
-                <version>42.0.0</version>
+                <version>42.3.3</version>
             </dependency>
             <dependency>
 			  <groupId>org.hibernate</groupId>
