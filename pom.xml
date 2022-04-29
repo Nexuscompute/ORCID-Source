@@ -180,7 +180,7 @@ the software.
                 <artifactId>maven-resources-plugin</artifactId>
                 <configuration>
                     <escapeString>\</escapeString>
-                    <outputDirectory />
+                    <outputDirectory/>
                 </configuration>
             </plugin>
             <plugin>
@@ -564,7 +564,7 @@ the software.
             <dependency>
                 <groupId>org.springframework.security.oauth</groupId>
                 <artifactId>spring-security-oauth2</artifactId>
-                <version>2.2.0.RELEASE</version>
+                <version>2.5.1.RELEASE</version>
                 <scope>compile</scope>
             </dependency>
             <dependency>
