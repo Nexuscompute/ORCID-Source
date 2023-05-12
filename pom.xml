@@ -28,7 +28,7 @@ the software.
         <spring.version>5.3.20</spring.version>
         <security.version>5.6.2</security.version>
         <liquibase.version>4.9.1</liquibase.version>
-        <jersey.version>2.27</jersey.version>
+        <jersey.version>2.39</jersey.version>
         <jackson.version>2.13.1</jackson.version>
         <swagger.version>2.1.1</swagger.version>
         <aspectj.version>1.9.6</aspectj.version>
@@ -163,7 +163,7 @@ the software.
                 <artifactId>maven-resources-plugin</artifactId>
                 <configuration>
                     <escapeString>\</escapeString>
-                    <outputDirectory />
+                    <outputDirectory/>
                 </configuration>
             </plugin>
             <plugin>
