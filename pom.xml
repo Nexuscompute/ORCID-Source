@@ -32,7 +32,7 @@ the software.
         <jackson.version>2.13.1</jackson.version>
         <swagger.version>2.1.1</swagger.version>
         <aspectj.version>1.9.6</aspectj.version>
-        <jena.version>4.4.0</jena.version>
+        <jena.version>4.6.0</jena.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <servlet.port>9437</servlet.port>
@@ -163,7 +163,7 @@ the software.
                 <artifactId>maven-resources-plugin</artifactId>
                 <configuration>
                     <escapeString>\</escapeString>
-                    <outputDirectory />
+                    <outputDirectory/>
                 </configuration>
             </plugin>
             <plugin>
